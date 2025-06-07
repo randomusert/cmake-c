@@ -6,3 +6,4 @@ project(cmake-c C)
 # add projects to build
 add_subdirectory(app1)
 add_subdirectory(echo)
+add_subdirectory(server)
